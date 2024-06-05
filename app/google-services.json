@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "567557974768",
+    "project_id": "sinava-hazirlik-urun",
+    "storage_bucket": "sinava-hazirlik-urun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567557974768:android:d8b96185eafd66de1e3035",
+        "android_client_info": {
+          "package_name": "tr.com.berkaykaanedikli.sinavhazirlik11_son"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd4eLLfnxhAxHR2DKx5fNltAJZ61gmsjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
